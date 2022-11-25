@@ -3,8 +3,12 @@
 Add tasks like “Read work emails every day at 10am” to fill your to-do list in seconds using Todo List.
 
 #### What you need to run this code
-1. Node (13.12.0)
-2. NPM (6.14.4) or Yarn (1.22.4)
+1. Node (v18.12.0)
+
+#### Dependencies
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
 
 ####  How to run this code
 1. Clone this repository
