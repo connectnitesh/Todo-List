@@ -49,7 +49,7 @@ app.post('/deleteNote/:id', function (req, res) {
 
 
 //set server port
-app.listen(3000, function(){
+app.listen(process.env.PORT || 3000, function(){
   console.log("Todo List server running at localhost:3000 ..");
 });
 
