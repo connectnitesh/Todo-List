@@ -1,6 +1,9 @@
 # Todo-List
 
-Add tasks like “Read work emails every day at 10am” to fill your to-do list in seconds using Todo List.
+![image](https://user-images.githubusercontent.com/79007697/204035270-81fdba7a-f231-46a3-bc3c-abc98c680ff3.png)
+
+
+Add tasks like “Reading Self help book, meditation, go to market etc ..” to fill your to-do list in seconds using Todo List.
 
 #### What you need to run this code
 1. Node (v18.12.0)
